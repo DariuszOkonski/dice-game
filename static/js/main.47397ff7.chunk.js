@@ -1,2 +1,0 @@
-(this["webpackJsonp02-dice-game"]=this["webpackJsonp02-dice-game"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),r=t(2),l=t.n(r);t(8),t(9);var o=function(){return c.a.createElement("div",{className:"App"},c.a.createElement("header",{className:"App-header"},c.a.createElement("h1",null,"Hello")))};l.a.render(c.a.createElement(o,null),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.47397ff7.chunk.js.map
